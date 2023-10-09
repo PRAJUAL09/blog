@@ -1,4 +1,4 @@
 baseURL = 'https://prajual09.github.io/myblog.github.io/'
 languageCode = 'en-us'
-title = 'PRAJUAL09'
+title = 'The Main Heading'
 theme = 'hugo-theme-techdoc'
