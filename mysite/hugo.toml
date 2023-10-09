@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/PRAJUAL09/myblog.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PRAJUAL09'
 theme = 'hugo-theme-techdoc'
