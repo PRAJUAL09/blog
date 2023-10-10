@@ -1,4 +1,0 @@
-[submodule "mysite/public"]
-	path = mysite/public
-	url = https://github.com/PRAJUAL09/myblog.github.io.git
-	branch = main
