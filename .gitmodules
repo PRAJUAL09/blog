@@ -1,0 +1,4 @@
+[submodule "docs/public"]
+	path = docs/public
+	url = https://github.com/PRAJUAL09/PRAJUAL09.github.io.git
+	branch = main

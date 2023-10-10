@@ -1,0 +1,7 @@
++++
+title = 'index'
+date = 2023-10-10T12:07:42+05:30
+
++++
+
+this is content
